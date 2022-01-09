@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Ramon prueba"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hola, espero que os guste mi prueba
